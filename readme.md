@@ -134,4 +134,8 @@ In order to keep the XDR tenant clean and in order to keep the capability to do 
 
 For doing so, from the network diagram, just click on the **[Clean Up Incident]** Button.
 
+![](img/16.png)
+
+
+
   
