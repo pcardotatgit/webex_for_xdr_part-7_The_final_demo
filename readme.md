@@ -117,6 +117,8 @@ For doing so, from the network diagram, just click on the **[Clean Up Incident]*
 -	Create a webex bot and copy it’s authentication token
 -	From your webex client start a Webex conversation with the Webex Bot
 
+Instructions for creating an Webex Bot for XDR are [here](https://github.com/pcardotatgit/Create_a_Webex_bot_for_XDR_Alerts)
+
 ## Step 1 Create XDR Feeds 
 
 [Create Text Public Feeds for firewalls](https://github.com/pcardotatgit/SecureX_Workflows_and_Stuffs/tree/master/12-create_securex_blocking_lists_for_firewalls)
