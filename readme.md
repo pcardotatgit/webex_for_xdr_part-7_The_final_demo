@@ -134,7 +134,7 @@ For doing so, go to Settings => Alerts => Third Party Watch List and create a ne
 
 ## Step 4 setup the Webex Alerting system
 
-Deploy into your XDR tenant the [XDR_ALERT_CARD_WITH_TARGETS_AND_OBSERVABLES_TO_WEBEX_ROOM](https://github.com/pcardotatgit/webex_for_xdr_part-6_XDR_send_alert_workflow) Incident workflow
+Deploy into your XDR tenant the [XDR Demo Incident workflow - Send Alert to Webex Room](https://github.com/pcardotatgit/XDR_Workflows_and_Stuffs/tree/master/500-SecureX_Workflow_examples/Workflows/XDR%20Demo%20Incident%20workflow%20-%20Send%20Alert%20to%20Webex%20Room) Incident workflow
 
 ## Step 5 Install the XDR lab_simulator-002
 
