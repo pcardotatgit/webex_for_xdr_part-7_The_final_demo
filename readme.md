@@ -144,9 +144,9 @@ Deploy into your XDR tenant the [XDR Demo Incident workflow - Send Alert to Webe
 
 ## Let's understand what happens behind the scene
 
-You understand that in this use case we don't infect any machine but we create into XDR Incidents every objects that result of the infection.
+You understand that in this use case we don't infect any machine but we create into XDR Incidents every objects that result of the real infection.
 
-Let's understand the steps to go thru to create an Incident within XDR.
+Let's understand the steps we go thru to create an Incident within XDR.
 
 [XDR_create_incident_with_python](https://github.com/pcardotatgit/XDR_create_incident_with_python)
   
