@@ -149,9 +149,3 @@ You understand that in this use case we don't infect any machine but we create i
 Let's understand the steps we go thru to create an Incident within XDR.
 
 [XDR_create_incident_with_python](https://github.com/pcardotatgit/XDR_create_incident_with_python)
-
-## What can we do more with that
-
-Connect AI to the Webex Bot !?   And talk with our Bot Yeah !!
-
-[ Let's go to that ](https://github.com/pcardotatgit/chatGPT_Webex_BOT)
